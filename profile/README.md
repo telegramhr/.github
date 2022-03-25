@@ -9,7 +9,7 @@ Our main focus is in publishing:
 
  1. [Telegram.hr](https://www.telegram.hr)
  2. [Telesport](https://telesport.telegram.hr)
- 3. [Super1.hr](htpps://super1.telegram.hr)  
+ 3. [Super1.hr](https://super1.telegram.hr)  
  4. [Pitanje Zdravlja](https://www.telegram.hr/pitanje-zdravlja)
  5. [Openspace](https://www.telegram.hr/openspace)
 
