@@ -1,4 +1,4 @@
-!(Telegram logo)[https://www.telegram.hr/_nuxt/img/telegram_logo_white.5f49895.svg]
+![Telegram logo](https://www.telegram.hr/_nuxt/img/telegram_logo_white.5f49895.svg)
 
 Telegram.hr
 ---
